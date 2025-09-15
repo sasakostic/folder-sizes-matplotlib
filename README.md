@@ -1,0 +1,1 @@
+This small utility shows folder sizes using maptlotlib piechart
